@@ -2,7 +2,8 @@
 
 // Programa para cadastrar duas cartas do Super Trunfo - Países
 int main() {
-
+printf("Desafio Super Trunfo Nível Novato!\n")
+printf("Novo commit\n")
     // =========================
     // DECLARAÇÃO DAS VARIÁVEIS
     // =========================
